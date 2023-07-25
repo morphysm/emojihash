@@ -39,6 +39,3 @@ colored_circles.index_to_circle(1234)
 
 # Parameter analysis
 ![Parameter analysis page 3](https://user-images.githubusercontent.com/9531780/165885588-5abc541e-769e-4e21-aed4-a3611ee8cc10.png)
-
-
-This repository uses [famed](https://famed.morphysm.com/boards/0kok0/emojihash) to reward contributions. Visit https://www.famed.morphysm.com to learn more about how to get famed or get in touch: contact@morphysm.com
